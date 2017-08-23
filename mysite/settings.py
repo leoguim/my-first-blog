@@ -25,7 +25,7 @@ SECRET_KEY = '-90(@-6i=e74gn*8%ttl5*24r@3+dsv)oqu2n^$-hz2(sy!8&9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', mamabillions.pythonanywhere.com]
 
 
 # Application definition
